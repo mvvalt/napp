@@ -1,5 +1,7 @@
+import napp.ui.NWindow;
+
 public class Main {
     public static void main(String[] args) {
-        // hello world
+        NWindow nWindow = new NWindow();
     }
 }
